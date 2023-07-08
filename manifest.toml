@@ -1,0 +1,15 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[BioSequences]]
+deps = ["..."]
+git-tree-sha1 = "..."
+uuid = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
+version = "1.1.2"
+
+[[BioStructures]]
+deps = ["..."]
+git-tree-sha1 = "..."
+uuid = "7269a6da-3e7e-5107-84ae-4b5f5e1f2a0e"
+version = "2.0.1"
+
+...

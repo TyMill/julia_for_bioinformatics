@@ -21,6 +21,7 @@ There are several example scripts in the `examples` directory:
 - `BioSequences_Example.jl`: Demonstrates how to read a DNA sequence from a FASTA file, perform operations on the sequence, search for a motif, and generate k-mer composition using the BioSequences package.
 - `BioStructures_Example.jl`: Demonstrates how to load a protein structure from a PDB file, calculate distances between atoms, and perform a structural alignment using the BioStructures package.
 - `PhyloNetworks_Example.jl`: Demonstrates how to load a phylogenetic tree from a Newick file, manipulate the tree, calculate tree statistics, and visualize the tree using the PhyloNetworks package.
+- `data_reader.jl`: shows how to use JuliaDB.jl to load and manipulate bioinformatics data stored in CSV files. It performs complex operations like joining, grouping, and calculating aggregate statistics
 
 To run an example script, you can use the `include` function in Julia, e.g., `include("examples/BioSequences_Example.jl")`.
 
